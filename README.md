@@ -1,8 +1,8 @@
 # Otkt-Instrument
 
 ## About
-An instrumentation tool that works in tandem with the
-[Otkt](https://github.com/kieker-monitoring/OtktDSL) language.
+Otkt-Instrument is an actively maintained instrumentation tool that works in
+tandem with the [Otkt](https://github.com/kieker-monitoring/OtktDSL) language.
 
 ## Author
 Daphné Larrivain <daphne.larrivain@ecole.ensicaen.fr>
