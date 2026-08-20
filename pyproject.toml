@@ -1,0 +1,15 @@
+[project]
+name = "otkt-instrument"
+version = "0.0.1"
+description = "An instrumentation tool that annotates functions of target Python software to facilitate Python application tracing by Otkt."
+authors = [
+    {name = "Daphné Larrivain",email = "daphne.larrivain@ecole.ensicaen.fr"}
+]
+license = {file = "LICENSE"}
+requires-python = "==3.13.5"
+dependencies = [
+]
+
+[build-system]
+requires = ["setuptools==68.2.2"]
+build-backend = "setuptools.build_meta"
